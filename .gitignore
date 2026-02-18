@@ -18,4 +18,5 @@ __MACOSX
 __pycache__/
 
 # Token
-.auth_state.json
+*auth_state.json
+/notebooks/Scholarvox/captures
